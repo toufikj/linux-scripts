@@ -1,7 +1,8 @@
 
 # Log Archive Script
 
-Project page: [https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
+## Project Page
+[https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
 
 This script (`log-archive.sh`) is a simple CLI tool to archive and compress logs from a specified directory.
 
@@ -64,3 +65,4 @@ To run the script every day at 12:00 AM, add this line to your crontab (edit wit
 ```
 Replace `/path/to/log-archive.sh` and `/path/to/log-directory` with the actual paths.
 
+For more details, visit the [project page](https://roadmap.sh/projects/log-archive-tool).
