@@ -1,4 +1,7 @@
+
 # Log Archive Script
+
+Project page: [https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
 
 This script (`log-archive.sh`) is a simple CLI tool to archive and compress logs from a specified directory.
 
